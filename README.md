@@ -2,6 +2,10 @@
 
 A lightweight React app for searching GitHub profiles by username and viewing key public profile details.
 
+## Live Demo
+
+[View Live Demo](https://github-user-search-explorer.netlify.app/)
+
 ## Features
 
 - Search GitHub users by username
